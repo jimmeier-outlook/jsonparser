@@ -1,0 +1,46 @@
+﻿namespace JsonParser
+{
+    public enum InteractionType
+    {
+        Null,
+        choiceInteraction,
+        TextBoxInteraction,
+        dragDropInteraction,
+        ImagemapInteraction,
+        AudioRecInteraction,
+        inlineChoiceInteraction,
+        SelectTextInteraction,
+        BlankInteraction,
+        textEntryInteraction,
+        matchInteraction,
+        LineMatchingInteraction2,
+        lineMatchInteraction,
+        custominteraction,
+        customInteraction,
+        voicerecordinginteraction,
+        gapmatchinteraction,
+        graphicgapmatchinteraction,
+        hotspotinteraction,
+        hottextinteraction,
+        extendedtextinteraction,
+        mediainteraction,
+        extendedTextInteraction,
+        LineGraphingInteraction,
+        FreeDrawInteraction,
+        freeDrawInteraction,
+        gapMatchInteraction,
+        graphicGapMatchInteraction,
+        hottextInteraction,
+        dragAndDropInteraction,
+        lineGraphInteraction,
+        hotspotInteraction,
+        equationeditorinteraction,
+        graphingLegendInteraction,
+        barChartInteraction,
+        numberLineInteraction,
+        graphingHybridInteraction,
+        simulationitem,
+        simulationinteraction
+
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JSONParser": {
+      "commandName": "Project",
+      "commandLineArgs": "MS2104 091820201211700 MS QA \"data source=EAG-QA-SQL050;initial catalog=MS_Nextera_Scoring;integrated security=False;User ID=webguest;Password=IoVQ562w;App=JSONParser;\" log Log_ ErrorLog_ 0 \"\" 202104 \"\" 5000 \"\""
+    }
+  }
+}
